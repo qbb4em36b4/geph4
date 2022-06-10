@@ -2,6 +2,6 @@
 
 添加图标 删去部分文件
 
-食用方式：`geph4-client.exe C:\Users\wsm_2\Documents\wsm\wsmw\geph4-client.exe connect --username <username> --password <password> --socks5-listen <ip:port>` （显然是需要注册的）
+食用方式：`geph4-client.exe connect --username <username> --password <password> --socks5-listen <ip:port>` （显然是需要注册的）
 
 更多用法执行 `geph4-client.exe help connect`
