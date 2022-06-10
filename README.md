@@ -9,7 +9,7 @@
 附部分公共账号：
 
 | 用户名 Username | 密码 Password |
-| :-------------- | ------------: |
+| :-------------- | :------------ |
 | public0         |       public0 |
 | public1         |       public1 |
 | public2         |       public2 |
